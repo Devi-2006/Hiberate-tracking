@@ -61,7 +61,11 @@ com.scwellness
 ├── service → Business logic
 ├── util → Hibernate configuration
 └── app → Main execution class
+
+
 OUTPUT :
+
+
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/faefc13f-ebfb-4d00-9f88-cea98f24e4b5" />
 
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/6f5d852b-2323-4983-b79b-ff4a91c6747a" />
